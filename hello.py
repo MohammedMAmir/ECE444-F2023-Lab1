@@ -14,7 +14,7 @@ moment = Moment(app)
 
 class NameForm(FlaskForm):
     name = StringField('What is your name?', validators=[DataRequired()])
-    email = StringField('What is your utoronto email?', validators=[Email()])
+    email = StringField('What is your UofT email?', validators=[Email()])
     submit = SubmitField('Submit')
 
 @app.route('/', methods=['GET', 'POST'])
