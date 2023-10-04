@@ -9,5 +9,6 @@ practicing Python Flask web development.
 
 This branch of the project is meant to practice Docker Builds and Runs
 
+### Activity 2
 ![lab3_activity2](lab3_activity2.png)
 
