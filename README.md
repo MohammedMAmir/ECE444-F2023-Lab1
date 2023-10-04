@@ -12,3 +12,5 @@ This branch of the project is meant to practice Docker Builds and Runs
 ### Activity 2
 ![lab3_activity2](lab3_activity2.png)
 
+### Activity 3
+![lab3_activity3](lab3_activity3.png)
